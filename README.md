@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This app was made using react and [deck.gl](https://deck.gl/).
+This app was made using react and [deck.gl](https://deck.gl/) (made by Uber). The app is hosted on Heroku and can be found [here](https://react-comma.herokuapp.com/).
 
 ## JSON files
 
