@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import ReactMapGL from 'react-map-gl';
 import {StaticMap} from 'react-map-gl';
 import dotenv from 'dotenv';
 import DeckGL from 'deck.gl';
@@ -71,7 +70,8 @@ export class App extends Component {
         opacity: 0.3,
         strokeWidth: 2,
         trailLength,
-        currentTime: this.state.time
+        currentTime: this.state.time,
+        lightSettings: LIGHT_SETTINGS
       })
     ];
   }
