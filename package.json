@@ -1,7 +1,6 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "http://luccab.github.io/comma.ai",
   "private": true,
   "dependencies": {
     "@deck.gl/experimental-layers": "^6.3.3",
