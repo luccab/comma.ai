@@ -6,4 +6,5 @@ This app was made using react and [deck.gl](https://deck.gl/) (made by Uber). Th
 
 I uploaded all of them to S3 and then I took all the information I needed and converted to one JSON file through [this script](https://github.com/luccab/rawJSON/blob/master/aws.js).
 
+I am further explaining the code in [this video](https://www.youtube.com/watch?v=2voHT4JjvMA).
 
