@@ -19,6 +19,7 @@ I am further explaining the code in [this video](https://www.youtube.com/watch?v
 `touch .env`
 
 Add 'SKIP_PREFLIGHT_CHECK=true' to the newly created .env file on the root directory
+
 Add 'REACT_APP_MAP_BOX={InsertYour[Mapbox](https://www.mapbox.com/account/access-tokens)APIKeyHere}' to the same .env file
 
 `npm run start`
