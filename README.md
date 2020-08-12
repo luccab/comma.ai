@@ -1,6 +1,8 @@
+# Comma.ai React Map
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This app was made using react and Mapbox/[deck.gl](https://deck.gl/) (made based on this [example](https://deck.gl/#/examples/custom-layers/trip-routes)). The app is hosted on Heroku and can be found [here](https://react-comma.herokuapp.com/).
+This app was made using react and Mapbox/[deck.gl](https://deck.gl/) (made based on this [example](https://deck.gl/#/examples/custom-layers/trip-routes)). The app is hosted on Netlify and can be found [here](https://nervous-murdock-9d54e7.netlify.app).
 
 ## JSON files
 
@@ -29,4 +31,4 @@ Add 'REACT_APP_MAP_BOX={InsertYour[Mapbox](https://www.mapbox.com/account/access
 * [React](https://reactjs.org/) - The web framework used
 * [Mapbox](https://www.mapbox.com/) - Map API
 * [deck.gl](https://deck.gl/#/) - Used together with Mapbox for visuals
-* [Heroku](https://www.heroku.com/) - Hosting Platform
+* [Netlify](https://www.netlify.com/) - Hosting Platform
